@@ -6,8 +6,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/my_self_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="my_self_deb" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/debangshu-roy-012404285/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/debangshu-roy-012404285/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=61556130312440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=61556130312440" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/debangshu-roy-012404285" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="debangshu-roy-012404285" height="30" width="40" /></a>
+<a href="https://fb.com/61556130312440" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="61556130312440" height="30" width="40" /></a>
 <a href="https://instagram.com/__m.y__s.e.l.f__d.e.b__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__m.y__s.e.l.f__d.e.b__" height="30" width="40" /></a>
 </p>
 
