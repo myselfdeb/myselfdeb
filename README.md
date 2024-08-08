@@ -1,3 +1,4 @@
+![logo](https://github.com/myselfdeb/myselfdeb/blob/main/image.jpeg)
 <h1 align="center">Hi 👋, I'm Debangshu Roy</h1>
 <h3 align="center">4th-Year CSE AIML Student | Python & SQL Specialist | Freelance Web Developer | Data Analytics Aspirant</h3>
 
