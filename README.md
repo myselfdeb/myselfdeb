@@ -3,6 +3,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=myselfdeb&label=Profile%20views&color=0e75b6&style=flat" alt="myselfdeb" /> </p>
 
+- 🤝 I’m looking for help with **some research papers**
+
+- 🌱 I’m currently learning **Data Analytics**
+
+- 📫 How to reach me **debangshuroy1010111@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/my_self_deb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="my_self_deb" height="30" width="40" /></a>
