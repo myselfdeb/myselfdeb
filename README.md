@@ -1,5 +1,5 @@
 # 💫 About Me:
-Full-stack developer with a passion for AI/ML. Proficient in Python, Java, and Android development. Enjoy exploring the world through photography and hiking.
+### Full-stack developer with a passion for AI/ML. Proficient in Python, Java, and Android development. Enjoy exploring the world through photography and hiking.
 
 
 ## 🌐 Socials:
