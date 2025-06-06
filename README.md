@@ -1,6 +1,5 @@
 # 🎭 About Me:
-### Full-stack developer with a passion for AI/ML. Proficient in Python. Enjoy exploring the world through photography and hiking.
-
+### Unlocking insights from data | Python developer with a passion for Data Science | IoT Innovator (Govt-Patented) | Ranked GATE 2025
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/61556130312440) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/debangshucore/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/debangshu-roy-012404285/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/my_self_deb) 
